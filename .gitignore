@@ -1,4 +1,11 @@
+# Vim
 *.swp
+
+# Virtual Environment
 bin/
 lib/
 
+# Jupyter
+.ipynb_checkpoints/
+etc/
+share/
